@@ -1,6 +1,5 @@
-# Food
+# Food program
 
 This will be an **amazing** food program.
 
-We will not collect many great recipes !
-
+We will collect many great recipes !
