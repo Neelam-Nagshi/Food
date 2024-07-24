@@ -1,4 +1,5 @@
 # Food
 
 This will be an amazing food program
-Whatever
+
+We will collect many great recipes.
