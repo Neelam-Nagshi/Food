@@ -1,5 +1,5 @@
 # Food
 
-This will be an amazing food program
+This will be an **amazing** food program.
 
-We will collect many great recipes.
+We will collect many great recipes !
